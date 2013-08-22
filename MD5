@@ -1,0 +1,11 @@
+2f2a31412bfa7b03d7dd511c372a9261 *DESCRIPTION
+aaede2068281c8c8497e417e91df1822 *NAMESPACE
+087e2fe4aedfee80a5a985b549b66730 *R/corTools.R
+3f970a8da6a9fefddf6b5e07d9c47755 *man/candpull.Rd
+3e8949208cde86167425b6e02355524f *man/corTools-package.Rd
+f63d4b22436bbdd2a31ed86bb074f002 *man/cytosub.Rd
+121e1723a93783913cc82dc77181a00b *man/dist.Rd
+2dacbf2bcc694c9896e04a555284d082 *man/edgecount.Rd
+943d4a631e15463ae5bb0bf58beb9767 *man/edgecutoff.Rd
+cfd0c2f8d7e5c2838db2ec0e51226d7a *man/syncheck.Rd
+98078d44922f85040c2b62152ed5ec0d *man/traitcombos.Rd
